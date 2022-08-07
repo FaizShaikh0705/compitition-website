@@ -1,0 +1,47 @@
+.logo{
+    margin-left: 50px;
+}
+
+.nav-item{
+    word-spacing: 2px;
+    margin-right: 50px;
+}
+
+.introduction h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-top: 200px;
+    
+}
+
+.button-01{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px; 
+    border-radius: 30px;
+    background-color: blue;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+}
+
+.download-btn{
+    margin-left: 650px;
+    margin-top: 50px;
+}
+
+.button-01:hover{
+    background-color: black;
+}
+
+
+.intro-img{
+    margin-left: 30%;
+    margin-top: 50px;
+}
+
+.header-001{
+    background-image: url(images/hero-bg.png);
+}

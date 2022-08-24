@@ -5,6 +5,7 @@
 .nav-item{
     word-spacing: 2px;
     margin-right: 50px;
+    cursor: pointer;
 }
 
 .introduction h2{
@@ -44,4 +45,10 @@
 
 .header-001{
     background-image: url(images/hero-bg.png);
+}
+
+.grid-container{
+    display: grid;
+    grid-column: auto auto;
+    
 }

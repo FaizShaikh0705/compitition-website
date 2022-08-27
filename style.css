@@ -104,10 +104,6 @@ service-box{
     margin-bottom: 20px;
     color: #3d60f4;
 }
-.service-box h5:hover{
-    text-decoration: underline;
-    font-weight: 700;
-}
 .testimonials{
     max-height: 50vh;
     max-width: 100%;

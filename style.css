@@ -57,10 +57,17 @@
 
 @media only screen and (max-width:812px){
     .intro-container {
-        min-height: 65vh;
+        min-height: 40vh;
     }
-    .introduction {
-        margin-top: 45px;
+    .introduction h2{
+        margin-top: 100px;
+    }
+    .download-btn{
+        margin-left: 120px;
+    }
+    .intro-img{
+        margin-left: 0px;
+        
     }
 }
 
@@ -205,5 +212,5 @@ service-box{
     .footer-data{
         margin-top: 55px;
         margin-bottom: 0px;
-     } 
+     }
 }
